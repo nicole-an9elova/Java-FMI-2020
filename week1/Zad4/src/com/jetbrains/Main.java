@@ -1,3 +1,5 @@
+/*An application that reads a four digit integernumber and
+outputs its representation in terms of the characters A, C, G, T. */
 package com.jetbrains;
 import java.util.*;
 public class Main {
