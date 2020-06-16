@@ -1,3 +1,5 @@
+/*An application that enables the user either to enter a Fahrenheit temperature and display 
+the Celsius equivalent or to enter a Celsius temperature and display the Fahrenheit equivalent.*/
 package com.jetbrains;
 import java.util.*;
 public class Main {
