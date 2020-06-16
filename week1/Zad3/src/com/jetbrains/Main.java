@@ -1,3 +1,5 @@
+/*Encrypting a 4-digit integer in the following way: each digit must be replaced by (the sum of that digit plus 7)
+modulo 10. Then the first digit must be swapped with the third, and the second digit with the fourth. */
 package com.jetbrains;
 import java.util.*;
 public class Main {
