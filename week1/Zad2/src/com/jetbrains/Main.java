@@ -1,3 +1,4 @@
+/*An application which determines whether a number is a palindrome.*/
 package com.jetbrains;
 import java.util.*;
 public class Main {
