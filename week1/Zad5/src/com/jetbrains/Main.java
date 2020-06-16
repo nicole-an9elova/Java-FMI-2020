@@ -1,3 +1,4 @@
+/* An application displaying the integer equivalents of the following: A B C a b c 0 1 2 $ * + / and the blank character.*/
 package com.jetbrains;
 import java.util.*;
 
