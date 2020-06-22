@@ -1,0 +1,4 @@
+module allClasses {
+    exports cla;
+
+}
