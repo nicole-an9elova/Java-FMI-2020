@@ -1,0 +1,30 @@
+.grid{
+    -fx-background-color: #75d331;
+    -fx-padding: 8;
+    -fx-hgap: 8;
+    -fx-vgap: 8;
+}
+
+#label {
+    -fx-font-size: 13px;
+    -fx-font-weight: bold;
+    -fx-padding: 0 0 0 40;
+    -fx-text-fill: #8e3fdf;
+}
+
+#text-field {
+    -fx-font-size: 13px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #000000;
+    -fx-border-color: rgba(26, 202, 221, 0.87);
+    -fx-border-width: 4px;
+}
+
+#button {
+    -fx-text-fill: #ff5332;
+    -fx-font-size: 13px;
+    -fx-font-weight: bold;
+    -fx-border-width: 2px;
+    -fx-border-color: #fff;
+    -fx-background-color: rgba(221, 209, 16, 0.87);
+}
